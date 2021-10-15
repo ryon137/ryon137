@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryon137
-- 👀 I’m interested in C++, Java, and learning anything and everything about computers and how they work.
-- 🌱 I’m currently finishing my Computer Science Degree with Enterprise Software emphasis and a minor in Business Administration at Northern Illinois University.
+- 👀 I’m interested in C++, Java, front end tech, and learning anything and everything about computers and how they work.
+- 🌱 I’m currently working as a Full Stack Developer at Cognizant
 - 📫 How to reach me: Email ryon137@gmail.com.
 
 <!---
