@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryon137
-- 👀 I’m interested in C++, Java, front end tech, and learning anything and everything about computers and how they work.
+- 👀 I’m interested in C++, Java, AWS, Angular, and learning anything and everything about computers and how they work.
 - 🌱 I’m currently working as a Full Stack Developer at Cognizant
 - 📫 How to reach me: Email ryon137@gmail.com.
 
