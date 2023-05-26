@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryon137
-- 👀 I’m interested in C++, Java, AWS, Angular, and learning anything and everything about computers and how they work.
-- 🌱 I’m currently working as a Full Stack Developer at Cognizant
+- 👀 I’m interested in Java, GCP, Kubernetes, and learning anything and everything about computers and how they work.
+- 🌱 I’m currently working as a Software Development Engineer at Zebra Technologies.
 - 📫 How to reach me: Email ryon137@gmail.com.
 
 <!---
